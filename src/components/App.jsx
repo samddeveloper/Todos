@@ -21,7 +21,6 @@ function App() {
 
 	return (
 		<div className="App">
-			<img className="logo" src="/logo.png" alt="Techover" />
 			<Input setTodo={setTodo} todo={todo} addTodo={addTodo} />
 			<List todos={todos} complete={complete} />
 		</div>

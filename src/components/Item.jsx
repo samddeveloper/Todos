@@ -1,3 +1,4 @@
+import './Item.css'
 const Item = ({ text, complete }) => {
 	return (
 		<div className="todo">

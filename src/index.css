@@ -16,6 +16,27 @@
   box-sizing: border-box;
 }
 
+.logo-wrapper {
+  display: flex;
+  justify-content: center;
+
+align-items: center;}
+
+.logo {
+ width: 200px;
+}
+
+.hero-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero {
+  width: 300px;
+}
+
+
 
 body {
   margin: 0;
